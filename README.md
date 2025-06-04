@@ -19,7 +19,7 @@ Installation
 1. Clone this repository to your local machine using either the HTTPS or SSH link provided on the repository's GitHub page. You can use the following command to clone the repository via HTTPS:
 
 ```bash
-git clone https://github.com/209sontung/sign-language
+git clone https://github.com/Srinithya-09/AICTE_Edunet_Microsoft_Internship
 ```
 
 2. Once the repository is cloned, navigate to the root directory of the project:
@@ -100,14 +100,4 @@ The directory structure of this repository is as follows:
    ├─ sign_to_prediction_index_map.json
    └─ utils.py
 ```
-
-## <a name="contributing"></a> Contributing
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## <a name="acknowledgments"></a> Acknowledgments
-Sincere gratitude is extended to @hoyso48 for providing the idea and initial implementation of the backbone model.
-
-## <a name="license"></a> License
-This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
-
 
